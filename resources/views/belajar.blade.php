@@ -1,0 +1,1 @@
+{{ $nama }} suka {{ $hobby }}
