@@ -40,6 +40,7 @@ th {
 <body>
 
 <p>ByE!!!</p>
+<p>Aku makan ikan</p>
 <br><br>
 <div class ="container"  style="text-align: center;">
     <div class="group p-6">
